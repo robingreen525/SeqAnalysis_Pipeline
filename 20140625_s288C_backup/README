@@ -1,0 +1,4 @@
+RJG 2014-06-22
+
+This version of the pipeline uses a minumum number of 10 reads to call SNPs with GATK (previously 20). Also this pipeline uses a sliding window to calcualte coverage across whole chromosomes
+(Ploting available as of 6/23)
